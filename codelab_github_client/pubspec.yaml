@@ -32,7 +32,10 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  http: ^0.12.2         # Add this line,
+  oauth2: ^1.6.1        # this line,
+  url_launcher: ^5.7.2 # and this line.
+  platform: ^2.2.1
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
